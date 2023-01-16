@@ -8,3 +8,5 @@ if __name__ == "__main__":
     
     barsik = Tiger
     barsik.getDangerous(2)
+
+    
