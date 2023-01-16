@@ -1,6 +1,10 @@
-def main(message):
-    return print(message)
+class Tiger():
+     def getDangerous(dangerous):
+        return print(dangerous)
+    
 
 
 if __name__ == "__main__":
-    main("hello world!!")
+    
+    barsik = Tiger
+    barsik.getDangerous(2)
